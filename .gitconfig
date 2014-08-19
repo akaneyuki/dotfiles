@@ -1,0 +1,7 @@
+[user]
+	name = akaneyuki
+	email = kantannano@gmail.com
+[core]
+	editor = /usr/bin/vim
+[alias]
+	co = checkout
