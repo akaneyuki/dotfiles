@@ -1,4 +1,7 @@
 #! /bin/bash
+git submodule init
+git submodule update
+
 ln -s ~/dotfiles/vim        ~/.vim
 ln -s ~/dotfiles/vimrc      ~/.vimrc
 ln -s ~/dotfiles/gitconfig  ~/.gitconfig
