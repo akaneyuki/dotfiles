@@ -1,9 +1,9 @@
 [user]
 	name = akaneyuki
-	email = ***@gmail.com
+	email = kantannano@gmail.com
 [core]
 	editor = /usr/bin/vim
-	excludesfile = /***/***/.gitignore
+	excludesfile = /Users/ryotaro/.gitignore
 [alias]
 	co = checkout
 [push]
