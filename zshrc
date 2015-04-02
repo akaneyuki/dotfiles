@@ -15,4 +15,7 @@ export PATH="/Users/ryotaro/Program/lib/ant/bin:$PATH"
 
 # source /Users/ryotaro/.vim/bundle/powerline/powerline/bindings/zsh/powerline.zsh
 
-tmux
+alias be='bundle exec'
+
+PROMPT='[%n@%m]# '
+RPROMPT='[%d]'
