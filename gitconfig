@@ -2,9 +2,12 @@
 	name = akaneyuki
 	email = kantannano@gmail.com
 [core]
-	editor = /usr/bin/vim
+	editor = /usr/local/bin/vim
 	excludesfile = /Users/ryotaro/.gitignore
 [alias]
 	co = checkout
+  st = status -sb
 [push]
 	default = simple
+[alias]
+  co = checkout
